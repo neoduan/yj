@@ -21,7 +21,7 @@ dev :
     LOGKIT:
         - "LOG_MODE" : "file"
         - "LOG_PATH" : "/tmp/date_fitness.log"
-    SVC_PORT : ":8384"
+    SVC_PORT : ":80"
     DB_NAME : "127.0.0.1"
     DB_PORT : "6379"
     DB_NO   : "1"
